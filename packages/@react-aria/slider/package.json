@@ -1,6 +1,6 @@
 {
   "name": "@react-aria/slider",
-  "version": "3.0.2",
+  "version": "3.2.1-slider-rc",
   "description": "Slider",
   "license": "Apache-2.0",
   "private": true,
