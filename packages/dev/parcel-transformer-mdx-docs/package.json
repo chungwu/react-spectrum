@@ -1,14 +1,14 @@
 {
   "name": "parcel-transformer-mdx-docs",
-  "version": "1.0.0",
+  "version": "3.2.1-slider.0",
   "private": true,
   "main": "MDXTransformer.js",
   "engines": {
     "parcel": ">= 2.0.0-alpha.3.2"
   },
   "dependencies": {
-    "@atom-languages/language-typescript": "atom/language-typescript#v0.6.2",
     "@atom-languages/language-css": "atom/language-css#v0.44.4",
+    "@atom-languages/language-typescript": "atom/language-typescript#v0.6.2",
     "@mdx-js/mdx": "^1.5.5",
     "@mdx-js/react": "^1.5.5",
     "@parcel/plugin": "nightly",
