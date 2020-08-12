@@ -1,6 +1,6 @@
 {
   "name": "@react-stately/layout",
-  "version": "3.1.0",
+  "version": "3.2.0-rc",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "main": "dist/main.js",
@@ -18,10 +18,10 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-stately/collections": "^3.1.0",
-    "@react-stately/virtualizer": "^3.1.0",
-    "@react-types/shared": "^3.1.0",
-    "@react-types/table": "3.0.0-rc.4"
+    "@react-stately/collections": "^3.2.0-rc",
+    "@react-stately/virtualizer": "^3.2.0-rc",
+    "@react-types/shared": "^3.2.0-rc",
+    "@react-types/table": "^3.2.0-rc"
   },
   "peerDependencies": {
     "react": "^16.8.0"

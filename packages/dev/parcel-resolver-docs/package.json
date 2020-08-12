@@ -1,13 +1,13 @@
 {
   "name": "parcel-resolver-docs",
-  "version": "1.0.0",
+  "version": "3.2.0-rc",
   "private": true,
   "main": "DocsResolver.js",
   "engines": {
     "parcel": ">= 2.0.0-alpha.3.2"
   },
   "dependencies": {
-    "@parcel/plugin": "nightly",
-    "@parcel/node-resolver-core": "nightly"
+    "@parcel/node-resolver-core": "nightly",
+    "@parcel/plugin": "nightly"
   }
 }

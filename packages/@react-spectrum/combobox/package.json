@@ -1,6 +1,6 @@
 {
   "name": "@react-spectrum/combobox",
-  "version": "3.0.0-alpha.1",
+  "version": "3.2.0-rc",
   "private": true,
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
@@ -33,29 +33,29 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/combobox": "^3.0.0-alpha.1",
-    "@react-aria/focus": "^3.1.0",
-    "@react-aria/i18n": "^3.1.0",
-    "@react-aria/overlays": "^3.1.0",
-    "@react-spectrum/button": "^3.1.0",
-    "@react-spectrum/label": "^3.1.0",
-    "@react-spectrum/listbox": "^3.1.0",
-    "@react-spectrum/overlays": "^3.1.0",
-    "@react-spectrum/textfield": "^3.1.0",
-    "@react-spectrum/utils": "^3.1.0",
-    "@react-stately/combobox": "^3.0.0-alpha.1",
-    "@react-types/combobox": "^3.0.0-alpha.1",
-    "@react-types/overlays": "^3.1.0",
-    "@react-types/shared": "^3.1.0",
-    "@react-types/textfield": "^3.1.0",
-    "@spectrum-icons/ui": "^3.1.0"
+    "@react-aria/combobox": "^3.2.0-rc",
+    "@react-aria/focus": "^3.2.0-rc",
+    "@react-aria/i18n": "^3.2.0-rc",
+    "@react-aria/overlays": "^3.2.0-rc",
+    "@react-spectrum/button": "^3.2.0-rc",
+    "@react-spectrum/label": "^3.2.0-rc",
+    "@react-spectrum/listbox": "^3.2.0-rc",
+    "@react-spectrum/overlays": "^3.2.0-rc",
+    "@react-spectrum/textfield": "^3.2.0-rc",
+    "@react-spectrum/utils": "^3.2.0-rc",
+    "@react-stately/combobox": "^3.2.0-rc",
+    "@react-types/combobox": "^3.2.0-rc",
+    "@react-types/overlays": "^3.2.0-rc",
+    "@react-types/shared": "^3.2.0-rc",
+    "@react-types/textfield": "^3.2.0-rc",
+    "@spectrum-icons/ui": "^3.2.0-rc"
   },
   "devDependencies": {
-    "@adobe/spectrum-css-temp": "^3.0.0-alpha.1"
+    "@adobe/spectrum-css-temp": "^3.2.0-rc"
   },
   "peerDependencies": {
-    "react": "^16.8.0",
-    "@react-spectrum/provider": "^3.0.0-rc.1"
+    "@react-spectrum/provider": "^3.0.0-rc.1",
+    "react": "^16.8.0"
   },
   "publishConfig": {
     "access": "public"

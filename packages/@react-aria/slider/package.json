@@ -19,14 +19,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/focus": "^3.0.2",
-    "@react-aria/i18n": "^3.0.2",
-    "@react-aria/interactions": "^3.0.2",
-    "@react-aria/label": "^3.0.2",
-    "@react-aria/utils": "^3.0.2",
-    "@react-stately/radio": "^3.0.2",
+    "@react-aria/focus": "^3.2.0-rc",
+    "@react-aria/i18n": "^3.2.0-rc",
+    "@react-aria/interactions": "^3.2.0-rc",
+    "@react-aria/label": "^3.2.0-rc",
+    "@react-aria/utils": "^3.2.0-rc",
+    "@react-stately/radio": "^3.2.0-rc",
     "@react-stately/slider": "^3.0.2",
-    "@react-types/radio": "^3.0.2",
+    "@react-types/radio": "^3.2.0-rc",
     "@react-types/slider": "^3.0.2"
   },
   "peerDependencies": {

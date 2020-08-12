@@ -1,6 +1,6 @@
 {
   "name": "@react-aria/tree",
-  "version": "3.0.0-alpha.1",
+  "version": "3.2.0-rc",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "private": true,
@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-stately/tree": "^3.1.0"
+    "@react-stately/tree": "^3.2.0-rc"
   },
   "peerDependencies": {
     "react": "^16.8.0"

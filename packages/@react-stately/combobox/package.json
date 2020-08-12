@@ -1,6 +1,6 @@
 {
   "name": "@react-stately/combobox",
-  "version": "3.0.0-alpha.1",
+  "version": "3.2.0-rc",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "private": true,
@@ -19,14 +19,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-stately/collections": "^3.1.0",
-    "@react-stately/list": "3.1.0",
-    "@react-stately/menu": "^3.1.0",
-    "@react-stately/select": "^3.1.0",
-    "@react-stately/selection": "^3.1.0",
-    "@react-stately/utils": "^3.1.0",
-    "@react-types/combobox": "^3.0.0-alpha.1",
-    "@react-types/shared": "^3.1.0"
+    "@react-stately/collections": "^3.2.0-rc",
+    "@react-stately/list": "^3.2.0-rc",
+    "@react-stately/menu": "^3.2.0-rc",
+    "@react-stately/select": "^3.2.0-rc",
+    "@react-stately/selection": "^3.2.0-rc",
+    "@react-stately/utils": "^3.2.0-rc",
+    "@react-types/combobox": "^3.2.0-rc",
+    "@react-types/shared": "^3.2.0-rc"
   },
   "peerDependencies": {
     "react": "^16.8.0"

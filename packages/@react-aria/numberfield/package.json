@@ -1,6 +1,6 @@
 {
   "name": "@react-aria/numberfield",
-  "version": "3.0.0-alpha.1",
+  "version": "3.2.0-rc",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "private": true,
@@ -19,15 +19,15 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/i18n": "^3.0.2",
-    "@react-aria/interactions": "^3.0.2",
-    "@react-aria/spinbutton": "^3.0.0-alpha.1",
-    "@react-aria/textfield": "^3.1.0",
-    "@react-aria/utils": "^3.1.0",
-    "@react-stately/numberfield": "^3.0.0-alpha.1",
-    "@react-types/button": "^3.1.0",
-    "@react-types/numberfield": "^3.0.0-alpha.1",
-    "@react-types/textfield": "^3.1.0"
+    "@react-aria/i18n": "^3.2.0-rc",
+    "@react-aria/interactions": "^3.2.0-rc",
+    "@react-aria/spinbutton": "^3.2.0-rc",
+    "@react-aria/textfield": "^3.2.0-rc",
+    "@react-aria/utils": "^3.2.0-rc",
+    "@react-stately/numberfield": "^3.2.0-rc",
+    "@react-types/button": "^3.2.0-rc",
+    "@react-types/numberfield": "^3.2.0-rc",
+    "@react-types/textfield": "^3.2.0-rc"
   },
   "peerDependencies": {
     "react": "^16.8.0"

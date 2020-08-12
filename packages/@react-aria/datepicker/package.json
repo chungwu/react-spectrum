@@ -1,6 +1,6 @@
 {
   "name": "@react-aria/datepicker",
-  "version": "3.0.0-alpha.1",
+  "version": "3.2.0-rc",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "private": true,
@@ -19,16 +19,16 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/focus": "^3.1.0",
-    "@react-aria/i18n": "^3.1.0",
-    "@react-aria/interactions": "^3.1.0",
-    "@react-aria/spinbutton": "^3.0.0-alpha.1",
-    "@react-aria/utils": "^3.1.0",
-    "@react-stately/datepicker": "^3.0.0-alpha.1",
-    "@react-types/button": "^3.1.0",
-    "@react-types/datepicker": "^3.0.0-alpha.1",
-    "@react-types/dialog": "^3.1.0",
-    "@react-types/shared": "^3.1.0"
+    "@react-aria/focus": "^3.2.0-rc",
+    "@react-aria/i18n": "^3.2.0-rc",
+    "@react-aria/interactions": "^3.2.0-rc",
+    "@react-aria/spinbutton": "^3.2.0-rc",
+    "@react-aria/utils": "^3.2.0-rc",
+    "@react-stately/datepicker": "^3.2.0-rc",
+    "@react-types/button": "^3.2.0-rc",
+    "@react-types/datepicker": "^3.2.0-rc",
+    "@react-types/dialog": "^3.2.0-rc",
+    "@react-types/shared": "^3.2.0-rc"
   },
   "peerDependencies": {
     "react": "^16.8.0"

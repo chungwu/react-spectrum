@@ -1,6 +1,6 @@
 {
   "name": "@react-aria/breadcrumbs",
-  "version": "3.1.0",
+  "version": "3.2.0-rc",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "main": "dist/main.js",
@@ -18,12 +18,12 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/i18n": "^3.1.0",
-    "@react-aria/interactions": "^3.1.0",
-    "@react-aria/link": "^3.1.0",
-    "@react-aria/utils": "^3.1.0",
-    "@react-types/breadcrumbs": "^3.1.0",
-    "@react-types/shared": "^3.1.0"
+    "@react-aria/i18n": "^3.2.0-rc",
+    "@react-aria/interactions": "^3.2.0-rc",
+    "@react-aria/link": "^3.2.0-rc",
+    "@react-aria/utils": "^3.2.0-rc",
+    "@react-types/breadcrumbs": "^3.2.0-rc",
+    "@react-types/shared": "^3.2.0-rc"
   },
   "peerDependencies": {
     "react": "^16.8.0"
