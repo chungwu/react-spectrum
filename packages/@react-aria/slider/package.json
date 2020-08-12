@@ -1,6 +1,6 @@
 {
   "name": "@react-aria/slider",
-  "version": "3.2.1-slider-rc",
+  "version": "3.2.1-slider.0",
   "description": "Slider",
   "license": "Apache-2.0",
   "private": true,
@@ -19,14 +19,14 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/focus": "^3.0.2",
-    "@react-aria/i18n": "^3.0.2",
-    "@react-aria/interactions": "^3.0.2",
-    "@react-aria/label": "^3.0.2",
-    "@react-aria/utils": "^3.0.2",
-    "@react-stately/radio": "^3.0.2",
+    "@react-aria/focus": "^3.2.1-slider.0",
+    "@react-aria/i18n": "^3.2.1-slider.0",
+    "@react-aria/interactions": "^3.2.1-slider.0",
+    "@react-aria/label": "^3.2.1-slider.0",
+    "@react-aria/utils": "^3.2.1-slider.0",
+    "@react-stately/radio": "^3.2.1-slider.0",
     "@react-stately/slider": "^3.0.2",
-    "@react-types/radio": "^3.0.2",
+    "@react-types/radio": "^3.2.1-slider.0",
     "@react-types/slider": "^3.0.2"
   },
   "peerDependencies": {
