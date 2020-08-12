@@ -1,6 +1,6 @@
 {
   "name": "parcel-transformer-css-env",
-  "version": "3.2.1-slider.0",
+  "version": "3.2.2-slider.0",
   "private": true,
   "main": "CSSEnvTransformer.js",
   "engines": {

@@ -1,6 +1,6 @@
 {
   "name": "@spectrum-icons/illustrations",
-  "version": "3.2.1-slider.0",
+  "version": "3.2.2-slider.0",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "repository": {
@@ -14,7 +14,7 @@
     "@adobe/react-spectrum-ui": "^1.0.0"
   },
   "devDependencies": {
-    "@spectrum-icons/build-tools": "^3.2.1-slider.0",
+    "@spectrum-icons/build-tools": "^3.2.2-slider.0",
     "react": "^16.8.0"
   },
   "publishConfig": {

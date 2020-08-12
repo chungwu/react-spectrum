@@ -1,6 +1,6 @@
 {
   "name": "@react-aria/numberfield",
-  "version": "3.2.1-slider.0",
+  "version": "3.2.2-slider.0",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "private": true,
@@ -19,15 +19,15 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/i18n": "^3.2.1-slider.0",
-    "@react-aria/interactions": "^3.2.1-slider.0",
-    "@react-aria/spinbutton": "^3.2.1-slider.0",
-    "@react-aria/textfield": "^3.2.1-slider.0",
-    "@react-aria/utils": "^3.2.1-slider.0",
-    "@react-stately/numberfield": "^3.2.1-slider.0",
-    "@react-types/button": "^3.2.1-slider.0",
-    "@react-types/numberfield": "^3.2.1-slider.0",
-    "@react-types/textfield": "^3.2.1-slider.0"
+    "@react-aria/i18n": "^3.2.2-slider.0",
+    "@react-aria/interactions": "^3.2.2-slider.0",
+    "@react-aria/spinbutton": "^3.2.2-slider.0",
+    "@react-aria/textfield": "^3.2.2-slider.0",
+    "@react-aria/utils": "^3.2.2-slider.0",
+    "@react-stately/numberfield": "^3.2.2-slider.0",
+    "@react-types/button": "^3.2.2-slider.0",
+    "@react-types/numberfield": "^3.2.2-slider.0",
+    "@react-types/textfield": "^3.2.2-slider.0"
   },
   "peerDependencies": {
     "react": "^16.8.0"

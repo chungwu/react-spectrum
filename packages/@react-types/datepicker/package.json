@@ -1,6 +1,6 @@
 {
   "name": "@react-types/datepicker",
-  "version": "3.2.1-slider.0",
+  "version": "3.2.2-slider.0",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "private": true,
@@ -10,7 +10,7 @@
     "url": "https://github.com/adobe/react-spectrum"
   },
   "dependencies": {
-    "@react-types/shared": "^3.2.1-slider.0"
+    "@react-types/shared": "^3.2.2-slider.0"
   },
   "publishConfig": {
     "access": "public"

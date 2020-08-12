@@ -1,6 +1,6 @@
 {
   "name": "@react-spectrum/radio",
-  "version": "3.2.1-slider.0",
+  "version": "3.2.2-slider.0",
   "description": "Spectrum UI components in React",
   "license": "Apache-2.0",
   "main": "dist/main.js",
@@ -32,18 +32,18 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.6.2",
-    "@react-aria/focus": "^3.2.1-slider.0",
-    "@react-aria/interactions": "^3.2.1-slider.0",
-    "@react-aria/radio": "^3.2.1-slider.0",
-    "@react-spectrum/form": "^3.2.1-slider.0",
-    "@react-spectrum/label": "^3.2.1-slider.0",
-    "@react-spectrum/utils": "^3.2.1-slider.0",
-    "@react-stately/radio": "^3.2.1-slider.0",
-    "@react-types/radio": "^3.2.1-slider.0",
-    "@react-types/shared": "^3.2.1-slider.0"
+    "@react-aria/focus": "^3.2.2-slider.0",
+    "@react-aria/interactions": "^3.2.2-slider.0",
+    "@react-aria/radio": "^3.2.2-slider.0",
+    "@react-spectrum/form": "^3.2.2-slider.0",
+    "@react-spectrum/label": "^3.2.2-slider.0",
+    "@react-spectrum/utils": "^3.2.2-slider.0",
+    "@react-stately/radio": "^3.2.2-slider.0",
+    "@react-types/radio": "^3.2.2-slider.0",
+    "@react-types/shared": "^3.2.2-slider.0"
   },
   "devDependencies": {
-    "@adobe/spectrum-css-temp": "^3.2.1-slider.0"
+    "@adobe/spectrum-css-temp": "^3.2.2-slider.0"
   },
   "peerDependencies": {
     "@react-spectrum/provider": "^3.0.0-rc.1",
